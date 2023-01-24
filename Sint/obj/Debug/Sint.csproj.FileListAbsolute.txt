@@ -1,0 +1,20 @@
+C:\Users\Lenovo\source\repos\Sint\bin\Debug\Sint.exe.config
+C:\Users\Lenovo\source\repos\Sint\bin\Debug\Sint.exe
+C:\Users\Lenovo\source\repos\Sint\bin\Debug\Sint.pdb
+C:\Users\Lenovo\source\repos\Sint\obj\Debug\Sint.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Sint\obj\Debug\Sint.Form1.resources
+C:\Users\Lenovo\source\repos\Sint\obj\Debug\Sint.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Sint\obj\Debug\Sint.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Sint\obj\Debug\Sint.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Sint\obj\Debug\Sint.exe
+C:\Users\Lenovo\source\repos\Sint\obj\Debug\Sint.pdb
+C:\Users\Matvey\Downloads\Sint (2)\Sint\bin\Debug\Sint.exe.config
+C:\Users\Matvey\Downloads\Sint (2)\Sint\bin\Debug\Sint.exe
+C:\Users\Matvey\Downloads\Sint (2)\Sint\bin\Debug\Sint.pdb
+C:\Users\Matvey\Downloads\Sint (2)\Sint\obj\Debug\Sint.csproj.AssemblyReference.cache
+C:\Users\Matvey\Downloads\Sint (2)\Sint\obj\Debug\Sint.Form1.resources
+C:\Users\Matvey\Downloads\Sint (2)\Sint\obj\Debug\Sint.Properties.Resources.resources
+C:\Users\Matvey\Downloads\Sint (2)\Sint\obj\Debug\Sint.csproj.GenerateResource.cache
+C:\Users\Matvey\Downloads\Sint (2)\Sint\obj\Debug\Sint.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Downloads\Sint (2)\Sint\obj\Debug\Sint.exe
+C:\Users\Matvey\Downloads\Sint (2)\Sint\obj\Debug\Sint.pdb
